@@ -1,6 +1,16 @@
 ### Hi there 👋 I am Avhishek 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiswas100)](https://github.com/anuraghazra/github-readme-stats)
+## Technologies :fire:
+- Machine Learning
+- Deep Learning
+- Data Analysis with **Python**.
+- Data Science.
+- Web Development
+- Back-end 
+
+<img align="right" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiswas100)](https://github.com/anuraghazra/github-readme-stats)" alt="My Top Languages">
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abiswas100&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 
 <br>
