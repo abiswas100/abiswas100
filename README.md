@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Avhishek 
+#### I am a Research Scholar at University of North Dakota. I graduated in August 2020 as a Bachelor's in Technology in Electronics and Communication.
+ <br>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Kmeans-Clustering](https://github.com/abiswas100/Kmeans-Clustering)
