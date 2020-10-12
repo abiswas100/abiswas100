@@ -25,8 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiswas100)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abiswas100&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 
-<br>
-
+### Connect with me 
   <a href="https://www.linkedin.com/in/avhishek-biswas-354858144/">
     <img align="left" alt="Avhishek Biswas | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
