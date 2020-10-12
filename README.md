@@ -1,5 +1,15 @@
 ### Hi there 👋 I am Avhishek 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
 
+- 👨🏽‍💻 I’m currently working on [Kmeans-Clustering](https://github.com/abiswas100/Kmeans-Clustering)
+- 🌱 I’m currently learning Deep-learning and Computer Vision 
+- 💬 Ask me about anything, I am happy to help
+- Check-out my [Portfolio](https://abiswas100.github.io/)
+- 📫 How to reach me: avhishekbiswas17@gmail.com
+- 📝[Resume](https://drive.google.com/drive/u/0/folders/1dvHzgOR7-skugA7pUj7vy12pNl0A-EPb)
+<br><br>
 ## Technologies :fire:
 - Machine Learning
 - Deep Learning
