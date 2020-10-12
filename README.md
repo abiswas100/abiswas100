@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Avhishek 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiswas100)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abiswas100&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 
 <br>
 
@@ -17,8 +18,7 @@
     <img align="left" alt="Avhishek Biswas | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
-
+<br><br>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/abiswas100/count.svg)
