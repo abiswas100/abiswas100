@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I am Avhishek 
 
-<!--
-**abiswas100/abiswas100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiswas100)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/avhishek-biswas-354858144/">
+    <img align="left" alt="Avhishek Biswas | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://https://twitter.com/TheBengaliCoder">
+    <img align="left" alt="Avhishek Biswas | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/the_phantom_menace19/">
+    <img align="left" alt="Avhishek Biswas | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:avhishekbiswas17@gmail.com">
+    <img align="left" alt="Avhishek Biswas | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br><br><br><br>
+
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/abiswas100/count.svg)
+
+⭐️ From [Avhi](https://github.com/abiswas100)
