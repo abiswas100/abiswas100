@@ -1,12 +1,13 @@
 ### Hi there 👋 I am Avhishek 
-#### I am a Research Scholar at University of North Dakota. I graduated in August 2020 as a Bachelor's in Technology in Electronics and Communication.
+#### I am a Computer Science PhD Student at University of Nebraska-Lincoln. I graduated in August 2020 as a Bachelor's in Technology in Electronics and Communication Engineering.
+ 
  <br>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Kmeans-Clustering](https://github.com/abiswas100/Kmeans-Clustering)
-- 🌱 I’m currently learning Deep-learning and Computer Vision 
+- 👨🏽‍💻 I’m currently working at NIMBUS lab in Computer Science Department. 
+- 🌱 I’m currently learning AI Safety and Deep Learning in Cyber-Physical Systems.
 - 💬 Ask me about anything, I am happy to help
 - Check-out my [Portfolio](https://abiswas100.github.io/)
 - 📫 How to reach me: avhishekbiswas17@gmail.com
