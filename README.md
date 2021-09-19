@@ -33,7 +33,7 @@
   <a href="https://https://twitter.com/TheBengaliCoder">
     <img align="left" alt="Avhishek Biswas | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/the_phantom_menace19/">
+  <a href="https://www.instagram.com/the_phantom_menace23/">
     <img align="left" alt="Avhishek Biswas | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:abiswas3@huskers.unl.edu">
