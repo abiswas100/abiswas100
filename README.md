@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AI Safety and Deep Learning in Cyber-Physical Systems.
 - 💬 Ask me about anything, I am happy to help
 - Check-out my [Portfolio](https://abiswas100.github.io/)
-- 📫 How to reach me: avhishekbiswas17@gmail.com
+- 📫 How to reach me: abiswas3@huskers.unl.edu
 - 📝[Resume](https://drive.google.com/file/d/1qcxP1yiZae-DlmVTCqkr1M18L3t4rGbT/view?usp=sharing)
 <br><br>
 ## Technologies :fire:
