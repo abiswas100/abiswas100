@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, I am happy to help
 - Check-out my [Portfolio](https://abiswas100.github.io/)
 - 📫 How to reach me: avhishekbiswas17@gmail.com
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/1dvHzgOR7-skugA7pUj7vy12pNl0A-EPb)
+- 📝[Resume](https://drive.google.com/file/d/1qcxP1yiZae-DlmVTCqkr1M18L3t4rGbT/view?usp=sharing)
 <br><br>
 ## Technologies :fire:
 - Machine Learning
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/the_phantom_menace19/">
     <img align="left" alt="Avhishek Biswas | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:avhishekbiswas17@gmail.com">
+  <a href="mailto:abiswas3@huskers.unl.edu">
     <img align="left" alt="Avhishek Biswas | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
