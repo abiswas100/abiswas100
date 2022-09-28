@@ -6,8 +6,8 @@
  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at NIMBUS lab in Computer Science Department. 
-- 🌱 I’m currently learning AI Safety and Deep Learning in Cyber-Physical Systems.
+- 👨🏽‍💻 I’m currently working at Cyber Physical Network Lab in Computer Science Department. 
+- 🌱 I’m currently learning Mobile mm-wave Communication.
 - 💬 Ask me about anything, I am happy to help
 - Check-out my [Portfolio](https://abiswas100.github.io/)
 - 📫 How to reach me: abiswas3@huskers.unl.edu
